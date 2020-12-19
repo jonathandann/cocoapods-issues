@@ -1,0 +1,6 @@
+framework module CocoaPods_Issue_10293 {
+  umbrella header "CocoaPods-Issue-10293-umbrella.h"
+
+  export *
+  module * { export * }
+}

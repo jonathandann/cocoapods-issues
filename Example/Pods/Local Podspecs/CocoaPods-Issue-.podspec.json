@@ -1,0 +1,30 @@
+{
+  "name": "CocoaPods-Issue-10293",
+  "cocoapods_version": "= 1.10.0",
+  "version": "0.1.0",
+  "summary": "CocoaPods-Issue-10293",
+  "description": "CocoaPods-Issue-10293",
+  "homepage": "https://github.com/jonathandann/cocoapods-issues",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonathan Dann": "jonathandann@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/jonathandann/cocoapods-issues.git",
+    "tag": "issue-10293"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/Classes/**/*",
+  "resources": "Source/Resources/**/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CoreData"
+  ],
+  "static_framework": true
+}

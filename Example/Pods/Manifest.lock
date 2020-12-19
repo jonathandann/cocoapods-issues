@@ -1,0 +1,16 @@
+PODS:
+  - CocoaPods-Issue-10293 (0.1.0)
+
+DEPENDENCIES:
+  - CocoaPods-Issue-10293 (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaPods-Issue-10293:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaPods-Issue-10293: a9e6d02c5ee30236114b14e117b2a72954946127
+
+PODFILE CHECKSUM: 67c943d7e3ebe5aee1464f252ed52574fee46cba
+
+COCOAPODS: 1.10.0

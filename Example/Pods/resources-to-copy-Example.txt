@@ -1,0 +1,2 @@
+/Users/jonathan/source/CocoaPods-Issues/Example/Pods/../../Source/Resources/Model.xcdatamodeld/Model.xcdatamodel/contents
+/Users/jonathan/Library/Developer/Xcode/DerivedData/Example-frelqzzmnxmhmrgyiglmjchpusxy/Build/Products/Debug-iphoneos/CocoaPods-Issue-10293/CocoaPods_Issue_10293.framework/Model.momd

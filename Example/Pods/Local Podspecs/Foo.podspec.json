@@ -1,0 +1,29 @@
+{
+  "name": "Foo",
+  "cocoapods_version": "= 1.10.0",
+  "version": "0.1.0",
+  "summary": "Foo",
+  "description": "Foo",
+  "homepage": "https://github.com/jonathandann/cocoapods-issues",
+  "license": {
+    "type": "MIT",
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Jonathan Dann": "jonathandann@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/jonathandann/cocoapods-issues.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/Classes/**/*",
+  "resources": "Source/Resources/**/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CoreData"
+  ]
+}
